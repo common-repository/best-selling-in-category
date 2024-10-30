@@ -1,0 +1,65 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Best selling in category\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-06 05:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: best-selling-in-category-woo"
+
+#: admin/view.php:57
+msgid "Active custom sorting"
+msgstr ""
+
+#. Name of the plugin
+msgid "Best selling in category"
+msgstr ""
+
+#: best-selling-in-category-woo.php:122
+msgid "By popularity"
+msgstr ""
+
+#: admin/view.php:52
+msgid "Enable/Disable best selling"
+msgstr ""
+
+#: best-selling-in-category-woo.php:120
+msgid "Highest price"
+msgstr ""
+
+#: best-selling-in-category-woo.php:121
+msgid "Lowest price"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "musilda.com"
+msgstr ""
+
+#: admin/view.php:48
+msgid "Plugin settings"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin shows 10 best selling products in category"
+msgstr ""
+
+#: admin/view.php:67
+msgid "Save setting"
+msgstr ""
+
+#: best-selling-in-category-woo.php:119
+msgid "Top"
+msgstr ""
+
+#. Author of the plugin
+msgid "Vladislav Musílek"
+msgstr ""
